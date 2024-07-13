@@ -4,4 +4,4 @@ WebGPU-TS is a TypeScript library that provides aims to provide a high-level API
 
 ## License
 
-WebGPU-TS is licensed under the ISC License.
+WebGPU-TS is licensed under the BSD 3-Clause License.
